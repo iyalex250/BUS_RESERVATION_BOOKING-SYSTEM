@@ -5,13 +5,7 @@ This is a simple Bus Reservation System programmed using Cpp .This program allow
 How to run
 Before running make sure you are having an c++ ide for windows users and g++ compiler installed for linux users.For windows user just open the file with any cpp ide and just compile and run.For unix users first navigate to the directory where this busrsm.cpp  file stored and then run the follwoing commands in terminal.
 
-g++ [filename.cpp]
-./a.out # unix
-a.exe # windows
-Normal Input/Output format for the code:
 
-souravmondal@sourav-pc:~/Documents$ g++ smBusRes.cpp
-souravmondal@sourav-pc:~/Documents$ ./a.out
 ---------------------------------------------------------------------------
 				****SM Bus Travel Agency****
 
